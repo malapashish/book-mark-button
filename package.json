@@ -37,6 +37,14 @@
   },
   "name": "bookmark-button",
   "author": "malapashish",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malapashish/book-mark-button"
+  },
+  "homepage": "https://github.com/malapashish/book-mark-button",
+  "keywords": [
+    "react"
+  ],
   "module": "dist/bookmark-button.esm.js",
   "size-limit": [
     {
